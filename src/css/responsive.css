@@ -1,0 +1,11 @@
+@media (max-width: 475px) {
+    .container .advice-card {
+        align-self: center;
+        width: 75%;
+        height: 35%;
+}
+
+.divisor-de-linha{
+    margin-bottom: 40px;
+}
+}
