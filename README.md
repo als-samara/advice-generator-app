@@ -2,18 +2,9 @@
 
 <img alt="JavaScript" height="30" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-### DESIGN
+### Preview
+![](./src/images/preview.gif)
 
-#### Desktop
-![](./design/desktop-design.png)
-
-#### Mobile design
-![](./design/mobile-design.png)
-
-
-### Link
-
-- Live Site URL: <a href="https://als-samara.github.io/advice-generator-app/">Advice Generator App</a>
 
 ## Processo
 
@@ -26,3 +17,8 @@ Os conselhos são gerados pela API [Advice Slip](https://api.adviceslip.com/) e 
 ## Próximos passos
 
 Foi muito gratificante consumir minha primeira API sem sentir dificuldade no processo, além de ter sido uma oportunidade de praticar e testar o uso de funções assíncronas. Sinto-me confiante para subir o nível nos próximos projetos, onde pretendo usar React e ganhar novas habilidades de desenvolvimento!
+
+
+### Deploy
+
+<a href="https://als-samara.github.io/advice-generator-app/">Advice Generator App</a>
