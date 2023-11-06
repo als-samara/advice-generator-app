@@ -1,6 +1,6 @@
 ## Tecnologias usadas
 
-<img src="src/images/tecnologia-1.png" alt="HTML icon" width="30px"><img src="src/images/tecnologia-2.png" alt="CSS icon" width="30px">
+<img alt="JavaScript" height="30" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ### DESIGN
 
